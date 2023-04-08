@@ -40,6 +40,8 @@ GİTHUB
 
 https://github.com/HowToFind-bot/osint-tools [TOOLLAR]
 
+https://github.com/ffffffff0x/Digital-Privacy [TOOLLAR]
+
 DÖKÜMAN
 
 https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit [TOOLLAR]
