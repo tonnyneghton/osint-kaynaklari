@@ -18,8 +18,6 @@ https://t.me/BreachedDBfree/232 @BreachedDBfree > Database ve veri sızıntılar
 
 TOR
 
-http://gsyorszxsxt57kwa5hnmqvgqu22en6rgif37uormbu6nafdxja62p5qd.onion/ [VERİ ARATMASI]
-
 http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion/ [VERİ ARATMASI]
 
 İNTERNET SİTELERİ 
