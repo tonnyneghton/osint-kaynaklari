@@ -44,6 +44,8 @@ https://github.com/ffffffff0x/Digital-Privacy [TOOLLAR]
 
 https://github.com/edoardottt/awesome-hacker-search-engines [TOOLLAR]
 
+https://github.com/vitalysim/Awesome-Hacking-Resources [TOOLLAR]
+
 DÖKÜMAN
 
 https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit [TOOLLAR]
