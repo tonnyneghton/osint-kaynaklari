@@ -34,6 +34,8 @@ https://www.phonenumbertrack.com/ [TELEFON]
 
 https://www.osinttechniques.com/osint-tools.html [TOOLLAR]
 
+https://comandosoft.github.io/nitram/zonahack.html [HACKİNG]
+
 GİTHUB
 
 https://github.com/HowToFind-bot/osint-tools [TOOLLAR]
