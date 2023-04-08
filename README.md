@@ -36,6 +36,8 @@ https://www.osinttechniques.com/osint-tools.html [TOOLLAR]
 
 https://comandosoft.github.io/nitram/zonahack.html [HACKİNG]
 
+https://osintframework.com/ [TOOLLAR]
+
 GİTHUB
 
 https://github.com/HowToFind-bot/osint-tools [TOOLLAR]
