@@ -48,6 +48,8 @@ https://github.com/vitalysim/Awesome-Hacking-Resources [TOOLLAR]
 
 https://github.com/The-Art-of-Hacking/h4cker [HACKİNG]
 
+https://github.com/gokhancode/OSINT-Tools [TOOLLAR]
+
 DÖKÜMAN
 
 https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit [TOOLLAR]
@@ -55,3 +57,7 @@ https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2Unco
 FORUMLAR
 
 https://cracking.org/ 
+
+WORDLİST
+
+https://github.com/utkusen/turkce-wordlist
